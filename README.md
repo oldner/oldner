@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haktan</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oldner" alt="oldner" /></a> </p>
-
-- 🔭 I’m currently working on **React, Node.js and Nest.js**
-
-- 🌱 I’m currently learning **Rust and Spring Boot (with Kafka, Rabbit MQ and Elastic Search)**
-
-- 📫 How to reach me **haktansefapasin@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/haktan-sefa-pasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haktan-sefa-pasin" height="30" width="40" /></a>
